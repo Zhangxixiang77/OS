@@ -1,0 +1,6 @@
+blocksize_KB=0.0625KB=64B,speed=0.854492MB/s
+blocksize_KB=0.2500KB=256B,speed=5.178741MB/s
+blocksize_KB=1.0000KB=1024B,speed=13.671875MB/s
+blocksize_KB=4.0000KB=4096B,speed=54.687500MB/s
+blocksize_KB=16.0000KB=16384B,speed=165.719697MB/s
+blocksize_KB=64.0000KB=65536B,speed=662.878788MB/s
